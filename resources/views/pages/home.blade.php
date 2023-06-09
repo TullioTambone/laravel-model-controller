@@ -6,6 +6,7 @@
 
 @section( 'mainContent' )
 
-<h1>hello main</h1>
-
+@foreach( $movies as $element)
+    <h4>{{ $element['title'] }}</h4>
+@endforeach
 @endsection
