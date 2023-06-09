@@ -1,3 +1,5 @@
 <footer>
-    <h1>hello footer</h1>
+    <h5 class="ms-2">
+        developed with &hearts;
+    </h5>
 </footer>
